@@ -1,0 +1,6 @@
+kill.cs.rutgers.edu 182.48.3.2 A
+mx.rutgers.com 192.64.4.5 A
+www.ibm.edu - Error:Host Not Found
+google.com - Error:Host Not Found
+www.google.com 8.6.4.2 A
+mx.rutgers.edu 192.64.4.2 A
